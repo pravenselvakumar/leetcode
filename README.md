@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pravenselvakumar/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pravenselvakumar/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravenselvakumar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/pravenselvakumar/leetcode/tree/master/0709-to-lower-case) |
 ## Sorting
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
