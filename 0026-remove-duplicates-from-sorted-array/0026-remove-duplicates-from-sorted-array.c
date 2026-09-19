@@ -1,15 +1,14 @@
 int removeDuplicates(int* arr, int size) {
-    int i=0,count=0;
-   
-    for(i=0;i<size;i++)
+   int i,count=1;
+   //int arr1[size];
+   for(i=1;i<size;i++)
+   {
+    if(arr[i]!=arr[i-1])
     {
-        if(i==0||arr[i]!=arr[i-1])
-        {
-            arr[count]=arr[i];
-            count++;
-        }
-
+        arr[count]=arr[i];
+        count++;
     }
+   }
     return count;
     
 }
