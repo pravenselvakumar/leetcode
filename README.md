@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pravenselvakumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravenselvakumar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/pravenselvakumar/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pravenselvakumar/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pravenselvakumar/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pravenselvakumar/leetcode/tree/master/0283-move-zeroes) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pravenselvakumar/leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pravenselvakumar/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
