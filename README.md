@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pravenselvakumar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/pravenselvakumar/leetcode/tree/master/0709-to-lower-case) |
+| [1446-consecutive-characters](https://github.com/pravenselvakumar/leetcode/tree/master/1446-consecutive-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/pravenselvakumar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
