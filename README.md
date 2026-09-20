@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pravenselvakumar/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pravenselvakumar/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pravenselvakumar/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pravenselvakumar/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pravenselvakumar/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pravenselvakumar/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pravenselvakumar/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravenselvakumar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pravenselvakumar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pravenselvakumar/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pravenselvakumar/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pravenselvakumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pravenselvakumar/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pravenselvakumar/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -143,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pravenselvakumar/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
