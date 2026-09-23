@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pravenselvakumar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/pravenselvakumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/pravenselvakumar/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pravenselvakumar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/pravenselvakumar/leetcode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pravenselvakumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pravenselvakumar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
@@ -181,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pravenselvakumar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pravenselvakumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
