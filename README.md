@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pravenselvakumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/pravenselvakumar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/pravenselvakumar/leetcode/tree/master/1470-shuffle-the-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pravenselvakumar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pravenselvakumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravenselvakumar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pravenselvakumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/pravenselvakumar/leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pravenselvakumar/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pravenselvakumar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
