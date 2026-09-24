@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pravenselvakumar/leetcode/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pravenselvakumar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3871-count-commas-in-range-ii](https://github.com/pravenselvakumar/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pravenselvakumar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
