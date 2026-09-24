@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pravenselvakumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pravenselvakumar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/pravenselvakumar/leetcode/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/pravenselvakumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/pravenselvakumar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pravenselvakumar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/pravenselvakumar/leetcode/tree/master/1470-shuffle-the-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pravenselvakumar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pravenselvakumar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/pravenselvakumar/leetcode/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/pravenselvakumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/pravenselvakumar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pravenselvakumar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/pravenselvakumar/leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/pravenselvakumar/leetcode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pravenselvakumar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/pravenselvakumar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pravenselvakumar/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pravenselvakumar/leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/pravenselvakumar/leetcode/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/pravenselvakumar/leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pravenselvakumar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pravenselvakumar/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
